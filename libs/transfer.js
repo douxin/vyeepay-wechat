@@ -66,3 +66,5 @@ class Transfer {
         })
     }
 }
+
+module.exports = Transfer;
