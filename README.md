@@ -9,7 +9,7 @@ Nodejs 微信支付模块，仅支持 es6，所以需要在 Node V4.X 版本上�
 
 ### 企业付款
 
-``` nodejs
+```javascript
 var params = new Map();
 var key = new Map();
 
